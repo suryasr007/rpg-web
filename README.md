@@ -48,8 +48,8 @@ Python Library: https://github.com/suryasr007/random-password-generator
 ## Contributions
 Contributions are welcomed via PR.
 
-Frontend by: [Arthur Coelho](https://github.com/ArthurCueio)
 Contributions from previous repo:
+  * [Arthur Coelho](https://github.com/ArthurCueio) (Frontend)
   * [Amar Prabhu](https://github.com/amar-prabhu-29)
 
 ## License
